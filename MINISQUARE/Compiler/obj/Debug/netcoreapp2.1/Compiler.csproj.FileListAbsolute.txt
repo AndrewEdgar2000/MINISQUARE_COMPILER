@@ -1,0 +1,13 @@
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.csproj.AssemblyReference.cache
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.csproj.CoreCompileInputs.cache
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
+D:\YEAR 4 (Honours)\Languages and Compilers - CM4106\Lab9ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.genruntimeconfig.cache

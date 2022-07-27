@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Compiler": {
+      "commandName": "Project",
+      "commandLineArgs": "file1.tri file1.tam file1.txt",
+      "workingDirectory": "D:\\YEAR 4 (Honours)\\Languages and Compilers - CM4106\\TestCode"
+    }
+  }
+}

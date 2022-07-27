@@ -1,0 +1,10 @@
+$This is an example for command
+let
+    MAX ~ 20,
+    a:Integer
+in
+    begin
+        getint(var a),
+        for(while , a < MAX, if a < MAX then a becomes a + 1)do
+            Nothing
+        end
